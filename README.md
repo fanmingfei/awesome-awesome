@@ -41,7 +41,8 @@
 * [Tool Box](https://github.com/phodal/toolbox)
 
 ## Style
-### Metarial Design
+### Design
+* [Awesome design](https://github.com/gztchan/awesome-design)
 * [Material Design Data](https://github.com/Luosunce/material-design-data)
 * [Awesome Material Design](https://github.com/sachin1092/awesome-material)
 * [Awesome Ant Design](https://github.com/websemantics/awesome-ant-design)
@@ -68,7 +69,6 @@
 * [Awesome json](https://github.com/burningtree/awesome-json)
 * [Awesome json-datasets](https://github.com/jdorfman/awesome-json-datasets)
 * [Awesome static-website-services](https://github.com/aharris88/awesome-static-website-services)
-* [Awesome design](https://github.com/gztchan/awesome-design)
 * [Awesome javascript-learning](https://github.com/micromata/awesome-javascript-learning)
 * [Awesome vscode](https://github.com/viatsko/awesome-vscode)
 * [Awesome markdown](https://github.com/BubuAnabelas/awesome-markdown)
