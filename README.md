@@ -55,10 +55,7 @@
 * [Awesome Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools)
 * [Awesome Scalability](https://github.com/davidtheclark/scalable-css-reading-list)
 * [Awesome Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
-* [Awesome Protips](https://github.com/AllThingsSmitty/css-protips)
-* [Awesome svg](https://github.com/willianjusten/awesome-svg)
-* [Awesome nodejs](https://github.com/sindresorhus/awesome-nodejs)
-* [Awesome npm](https://github.com/sindresorhus/awesome-npm)
+* [Awesome Protips](https://github.com/AllThingsSmitty/css-protip
 
 ## Team
 * [Awesome fe-team](https://github.com/mdluo/awesome-fe-team)
@@ -104,3 +101,7 @@
 * [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
 * [Search Engine Otimization](https://github.com/marcobiedermann/search-engine-optimization)
 * [Awesome Text Editing](https://github.com/dok/awesome-text-editing)
+s)
+* [Awesome svg](https://github.com/willianjusten/awesome-svg)
+* [Awesome nodejs](https://github.com/sindresorhus/awesome-nodejs)
+* [Awesome npm](https://github.com/sindresorhus/awesome-npm)
