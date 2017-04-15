@@ -56,7 +56,7 @@
 * [Awesome Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools)
 * [Awesome Scalability](https://github.com/davidtheclark/scalable-css-reading-list)
 * [Awesome Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
-* [Awesome Protips](https://github.com/AllThingsSmitty/css-protip
+* [Awesome Protips](https://github.com/AllThingsSmitty/css-protip)
 
 ## Team
 * [Awesome fe-team](https://github.com/mdluo/awesome-fe-team)
